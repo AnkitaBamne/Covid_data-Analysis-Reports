@@ -1,5 +1,5 @@
 
-#COVID Data Dashboard
+ ## COVID Data Dashboard ##
 
 ## Overview ##
 
